@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Taslim Ansari 😄
 
 
-🔭 Focusing on basics first.
+🔭 Focusing on basics first. \n
 🌱 I’m currently learning Web Development more precisely Js.
 🤔 I’m looking for help with my completion of grade 11 studies. Will you help?
 📫 How to reach me: 
