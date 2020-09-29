@@ -11,6 +11,6 @@
 
   💬 Email-->1993taslim@gmail.com
     
-  💬 Instagram-->taslim_noob_programmer
+  💬 Instagram-->@taslim_noob_programmer
   
 ⚡ Fun fact: Imagine if you become a quicksilver...
