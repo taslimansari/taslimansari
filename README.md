@@ -13,4 +13,4 @@
     
   💬 Instagram-->taslim_noob_programmer
   
-⚡ Fun fact: Bears beets battlestar galactica
+⚡ Fun fact: Imagine if you become a quicksilver...
