@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Taslim Ansari!
+## Hi there, I'm Taslim Ansari!👋
 ###### Computer Engineering Student | Aspiring Software Engineer | Tech Enthusiast
 
 #### 🚀 About Me
