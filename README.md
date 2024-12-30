@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋, I'm Taslim Ansari!
+###### Computer Engineering Student | Aspiring Software Engineer | Tech Enthusiast
 
-<!--
-**taslimansari/taslimansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 About Me
+- 🌟 Pursuing Computer Engineering at Rizvi College of Engineering.
+- 💻 Passionate about AI, Machine Learning, and Software Development.
+- 📖 Continuously exploring new technologies and sharpening my programming skills.
+- 🌱 Currently learning Forex Trading and enhancing my knowledge of Conversational AI.
 
-Here are some ideas to get you started:
+#### 🌐 My Skills
+- Programming Languages: Python, JavaScript, Java
+- Web Development: HTML, CSS, Bootstrap
+- Tools & Frameworks: SQL, Tkinter, Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/taslimansari
+- GitHub: [@taslimansari](https://github.com/taslimansari)
+- Email: 1993taslim@gmail.com
