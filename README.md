@@ -2,10 +2,9 @@
 ###### Computer Engineering Student | Aspiring Software Engineer | Tech Enthusiast
 
 #### 🚀 About Me
-- 🌟 Pursuing Computer Engineering at Rizvi College of Engineering.
+- 🌟 Pursuing Computer Engineering at Rizvi College of Engineering, Bandra(W).
 - 💻 Passionate about AI, Machine Learning, and Software Development.
 - 📖 Continuously exploring new technologies and sharpening my programming skills.
-- 🌱 Currently learning Forex Trading and enhancing my knowledge of Conversational AI.
 
 #### 🌐 My Skills
 - Programming Languages: Python, JavaScript, Java
