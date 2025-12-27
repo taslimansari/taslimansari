@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taslim Ansari</h1>
-<h3 align="center">💻 I’m a Computer Engineering student building AI-powered systems and full-stack applications. Currently exploring AI-integrated apps, conversational bots, and automation tools — focused on real-world impact and software excellence.</h3>
+<h3 align="center">💻 I’m a Computer Engineering student building AI-powered systems and full-stack applications. Currently exploring AI-integrated apps, conversational bots, and automation tools; focused on real-world impact and software excellence.</h3>
 
 ---
 
