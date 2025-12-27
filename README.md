@@ -55,10 +55,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=taslimansari&show_icons=true&locale=en&layout=compact&theme=radical" height="150" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=taslimansari&show_icons=true&locale=en&theme=radical" height="150" alt="GitHub Stats" />
-</p>
 
----
