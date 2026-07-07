@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Taslim Ansari</h1>
-<h3 align="center">Full Stack Developer • MERN Stack • Cloud • Open Source Enthusiast</h3>
-
 <p align="center">
-Building scalable web applications, learning something new every day, and turning ideas into products.
+  <a href="https://github.com/taslimansari">
+    <img src="./header.png" alt="Banner" width="100%">
+  </a>
 </p>
 
 ---
