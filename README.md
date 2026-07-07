@@ -11,7 +11,7 @@ Building scalable web applications, learning something new every day, and turnin
 
 I'm a Full Stack Developer passionate about building modern, scalable, and user-friendly applications.
 
-I enjoy working across the entire development stack—from designing responsive interfaces to building REST APIs, managing databases, deploying applications to the cloud, and optimizing performance.
+I enjoy working across the entire development stack-from designing responsive interfaces to building REST APIs, managing databases, deploying applications to the cloud, and optimizing performance.
 
 Currently, I'm focused on:
 
@@ -151,7 +151,7 @@ Currently, I'm focused on:
 
 # 💭 Developer Philosophy
 
-> *"Code is more than solving problems—it's about creating experiences that people enjoy using."*
+> *"Code is more than solving problems-it's about creating experiences that people enjoy using."*
 
 ---
 
